@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW8", "HW8\HW8.csproj", "{A4A6534C-3B07-4BBE-8D83-DA23DF1F2431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW8", "HW8\HW8.csproj", "{A4A6534C-3B07-4BBE-8D83-DA23DF1F2431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleThread", "SimpleThread\SimpleThread.csproj", "{631BF2D4-18B5-486D-868E-5FB937202831}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A4A6534C-3B07-4BBE-8D83-DA23DF1F2431}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4A6534C-3B07-4BBE-8D83-DA23DF1F2431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4A6534C-3B07-4BBE-8D83-DA23DF1F2431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631BF2D4-18B5-486D-868E-5FB937202831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631BF2D4-18B5-486D-868E-5FB937202831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631BF2D4-18B5-486D-868E-5FB937202831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631BF2D4-18B5-486D-868E-5FB937202831}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
